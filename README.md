@@ -446,6 +446,12 @@ Share the project source code and configuration template instead:
 
 The evaluator can configure their own API credentials if required.
 
+## Assessment Notes
+
+- [Architecture Note](docs/ARCHITECTURE.md)
+- [Product Note](docs/PRODUCT_NOTE.md)
+- [AI Tool Usage Brief](docs/AI_TOOL_USAGE.md)
+
 👤 Author
 
 Samatha P
